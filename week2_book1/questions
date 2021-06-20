@@ -1,0 +1,19 @@
+One words
+
+Byte size: The size of byte is -128 to 127
+Keywords : if - keyword
+then - not a keyword
+goto - reserved word
+while - keyword
+case - keyword
+
+1)
+package week2_book1;
+import java.awt.*;
+class MyClass2 {}
+
+2)
+
+package week2_book1;
+import java.awt.*;
+class MyClass{}// They both compile without error

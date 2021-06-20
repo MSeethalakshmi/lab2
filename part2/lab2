@@ -1,0 +1,132 @@
+Part 2
+
+lab 2:
+-----
+Part 2
+
+Introduction of Java
+--------------------
+
+1.. Java’s defining characteristics come from?
+ans: It’s a newly created language
+2. Java derives it’s syntax from …….. and many of Java’s object-oriented features were influenced by…….?
+ans: c and c++
+
+3.Java?
+ b)Platform-independent
+
+Oops in Java
+------------
+
+8.Which type of programming language is Java?
+  b. object oriented programming
+
+9. Write a simple Java program to print the statement “This is My First Java program”?
+package hit;
+
+class FirstProgram{
+	public static void main(String[] args){
+		System.out.println("This is My First Java program");
+	}
+}
+
+10.What is the return type of program’s main() method? 
+null
+
+11.What is the argument type of program’s main() method?
+ String
+ 
+12.Which of the following signatures are valid for the main() method entry point of an application?
+ b)public static void main(String arg[])
+
+Java keywords
+-------------
+
+13.Name two keywords in Java that are reserved but not used?
+    i)goto
+   ii)const
+
+14.Choose the valid keywords from those listed below?
+     a)byte
+    b)import
+
+Operators
+---------
+
+15.What are the operators used in Java?
+ Arithmetic operators
+	1. +
+	2. -
+	3. *
+	4. /
+	5. %
+	6. ++
+	7. --
+
+Assignment operators
+	1. +=
+	2. -=
+	3. *=
+	4. /=
+	5. %=
+	6. &=
+	7. ^=
+	8. |=
+	9. <<=
+	10. >>=
+	11. =
+	
+Logical operators
+	1. &&
+	2. ||
+	3. !
+
+Bitwise operators
+	1. &
+	2. |
+	3. ^
+	
+Comparison operators
+	1. ==
+	2. !=
+	3. <
+	4. >
+	5. >=
+	6. <=
+	
+
+18.int a = 1;
+int b = 2;
+int c;
+int d;
+c = ++b;
+d = a++;
+c++;
+What is the value of c and d after executing this code?
+ans:  4
+ 
+19.a = 4; b = 1;Boolean c = a<b; Value of c?
+ ans: false
+ 
+20.Choose valid statements in java?
+ None
+ 
+21.a = true, b = false
+c = a | b;
+d = a & b;
+e = a ^ b;
+f = (! a & b) | (a &! b);
+g =! a;
+What is the value of c, d, e, f, and g?
+ans:
+    c=true
+    d=false
+    e=true
+    f=true
+    g=false
+    
+    
+22.a = 20; b = 10;
+x = a>b? a:b;
+What is the value of x?
+ b)20
